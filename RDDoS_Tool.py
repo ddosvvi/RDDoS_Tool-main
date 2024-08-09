@@ -43,11 +43,11 @@ while True:
     print("\033[91m    /__ /  _  _(/\033[0m  \033[95m  /    /    /    / ___  /     \033[0m     /  ______// ")
     print("\033[91m ) /   \\__(/_(_(_\033[0m\033[95m  _/___ /_  _/___ /_(_)) /     \033[0m   ) /  (_)(_)(/_")
     print("\033[91m(_/\033[0m              \033[95m(_/___ /  (_/___ /    (_/      \033[0m  (_/\n")
-    print("                        Author: Mr.\033[91mDDOSvvi\033[0m")
-    print("       Github: https://github.com/Red-company/RDDoS_Tool")
+    print("                        Author: Dr.\033[91mMegawati-Susilo\033[0m")
+    print("       Github: https://github.com/ddosvvi/RDDoS_Tool-main")
     print('                   For legal purposes only')
     print("\033[92;1m")
-    print("\n1. IP Address\n2. Exit")
+    print("\n1. Domain\n2. IP Addres\n3. Exit")
     print('\033[0m')
 
     # Input.
