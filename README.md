@@ -3,7 +3,7 @@
 <p align="left" display="inline-block">
 <img title="Built With Love" src="https://forthebadge.com/images/badges/built-with-love.svg"> <img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%99%A5-red"></p>
 
-![plot](.https://telegra.ph/file/de33c00937767c6c88b1e.png)
+<img src="https://telegra.ph/file/de33c00937767c6c88b1e.png">
 
 ## What is RedDDoS Tool?
 ```diff
