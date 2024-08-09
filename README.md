@@ -3,7 +3,7 @@
 <p align="left" display="inline-block">
 <img title="Built With Love" src="https://forthebadge.com/images/badges/built-with-love.svg"> <img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%99%A5-red"></p>
 
-![plot](./Screenshots/RDDoS_main.png)
+![plot](.https://telegra.ph/file/de33c00937767c6c88b1e.png)
 
 ## What is RedDDoS Tool?
 ```diff
@@ -45,13 +45,13 @@ pip install pyfiglet
 
 ## Screenshots? Here they are:
 
-![plot](./Screenshots/RDDoS_about.png)
+![plot](.https://telegra.ph/file/7097f2025cb83865e65b8.png)
 
-![plot](./Screenshots/RDDoS_ip.png)
+![plot](.https://telegra.ph/file/e0123bfb30432943542e8.png)
 
-![plot](./Screenshots/RDDoS_preparing.png)
+![plot](.https://telegra.ph/file/f904d073ee6cb34a1ffe8.png)
 
-![plot](./Screenshots/RDDoS_process.png)
+![plot](.https://telegra.ph/file/f350eeb3637c2b52cd02b.png)
 
 ## Disclaimer
 
